@@ -1,12 +1,4 @@
-import tkinter as tk
-
-root = tk.Tk()
-
-button = 
-
-root.mainloop()
-
-
+print("Hi Austin")
 
 name = input("What is your name? ")
 
@@ -77,4 +69,3 @@ else:
     print("Wow, Biiiiiitch!")
 
 print("You got " + str(score/4 * 100) + "%")
-
